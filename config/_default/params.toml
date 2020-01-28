@@ -212,7 +212,7 @@ plugins_js  = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "kalu_oscar"  # Paste the shortname from your Disqus dashboard.
+    shortname = "https-kaluverse-netlify-com"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
