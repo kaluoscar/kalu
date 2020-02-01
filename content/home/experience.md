@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "Owerri"
   date_start = "2017-01-01"
   date_end = ""
-  description = """mastering statistics and R for data science and have been teaching R tidyverse, tidymodels to my  follow colleagues"""
+  description = """mastering statistics and R for data science and have been teaching R tidyverse, tidymodels to my  fellow colleagues"""
 
 +++
